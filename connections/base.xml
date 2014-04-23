@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <driver>mysql</driver>
+    <host>localhost</host>
+    <port>3306</port>
+    <database>foodb</database>
+    <username>fooser</username>
+    <password>pass</password>
+</root>
